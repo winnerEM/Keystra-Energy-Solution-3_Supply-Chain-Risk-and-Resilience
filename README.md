@@ -69,5 +69,6 @@ Risk Signals → Prediction → Explanation → Exposure → Propagation → Pri
 The result is a structured framework for identifying developing supplier risk early and translating it into actionable management priorities.
 
 
-Below is the link to the engineered dataset:
-https://drive.google.com/drive/folders/1GRId3FFoEGBG7ZAgyCqDn3hU41vAMEz7?usp=sharing
+All project artefacts is also available on google drive, including the engineered dataset:
+
+https://drive.google.com/drive/folders/1GhvQmrk7LyO7tHMDRdEKtEdxfBXgLRj9?usp=sharing
